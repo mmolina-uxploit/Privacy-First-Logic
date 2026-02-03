@@ -71,7 +71,7 @@ Control del cambio para evitar regresiones:
 
 ## Documentación del Sistema
 
-Las decisiones estratégicas y los fundamentos teóricos se encuentran detallados en la carpeta de [**`documentación`**](Privacy-First-Logic/Docs/README.md) técnica:
+Las decisiones estratégicas y los fundamentos teóricos se encuentran detallados en la carpeta de [**`documentación`**](Privacy-First%20Logic/Docs/README.md) técnica:
 
 - **[**`ARCHITECTURE.md`**](Privacy-First%20Logic/Docs/ARCHITECTURE.md)**  
   Describe la arquitectura técnica del sistema, sus capas, responsabilidades e invariantes. Define cómo se organiza el sistema y qué condiciones no deben romperse para preservar coherencia y gobernanza.
